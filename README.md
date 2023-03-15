@@ -5,7 +5,7 @@ Usage:
 
     ./eff.sh $JobId
 
-Output is a CPU utilisation calculated as:
+Output is a CPU utilization calculated as:
 
 eff = TRESUsageInTot / RunTime / NumCPUs.
 
