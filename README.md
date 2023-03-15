@@ -1,5 +1,5 @@
 # eff
-A CPU utilisation calculator for running SLURM jobs.
+A CPU utilization calculator for running SLURM jobs.
 
 Usage:
 
